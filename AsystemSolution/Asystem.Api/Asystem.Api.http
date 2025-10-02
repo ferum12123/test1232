@@ -1,0 +1,21 @@
+@Asystem.Api_HostAddress = http://localhost:5000
+
+### Список материалов
+GET {{Asystem.Api_HostAddress}}/api/materials
+Accept: application/json
+
+### Материал по id
+GET {{Asystem.Api_HostAddress}}/api/materials/1
+Accept: application/json
+
+### Создать материал
+POST {{Asystem.Api_HostAddress}}/api/materials
+Content-Type: application/json
+
+{
+  "code": "TEST_CODE",
+  "name": "Тестовый материал",
+  "onHand": 10,
+  "reserved": 0,
+  "unitPrice": 1.5
+}

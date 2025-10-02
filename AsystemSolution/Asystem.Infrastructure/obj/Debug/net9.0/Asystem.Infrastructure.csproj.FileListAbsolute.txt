@@ -1,0 +1,17 @@
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Infrastructure.deps.json
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Infrastructure.runtimeconfig.json
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Infrastructure.dll
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Infrastructure.pdb
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Core.dll
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\bin\Debug\net9.0\Asystem.Core.pdb
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem..2C3C23D9.Up2Date
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.dll
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\refint\Asystem.Infrastructure.dll
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.pdb
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\Asystem.Infrastructure.genruntimeconfig.cache
+C:\Users\Орлов\Desktop\работа\прога\repos\AsystemSolution\Asystem.Infrastructure\obj\Debug\net9.0\ref\Asystem.Infrastructure.dll

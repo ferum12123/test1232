@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D8URvstvrHoMcxpZop2J7ycW4FJJgIbeK9CmmbGfM0I=",
+  "Source": "Asystem.Api",
+  "BasePath": "_content/Asystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

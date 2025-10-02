@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Asystem.DesktopClient/1.0.0": {
+        "dependencies": {
+          "Asystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "Asystem.DesktopClient.dll": {}
+        }
+      },
+      "Asystem.Core/1.0.0": {
+        "runtime": {
+          "Asystem.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asystem.DesktopClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
